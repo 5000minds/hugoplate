@@ -1,23 +1,30 @@
 ---
-title: "How to build an Application with modern Technology"
-meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
 draft: false
+title: How to build an Application with modern Technology
+meta_title: How to build an Application with modern Technology
+description: this is meta description
+date: 2022-04-04T05:00:00.000Z
+image: /images/image-placeholder.png
+author: John Doe
+categories:
+  - Application
+  - Data
+tags:
+  - nextjs
+  - tailwind
 ---
+This is a test. Hi Esther, this is mudi - kapan hari T nasional?
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Medicare Seminar Event will be held at Sulistio Insurance Services.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+* Sunday
+* Monday
+* Tuesday
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+![](/images/uploads/dall·e-2023-02-25-17.42.55-high-tech-vector-graphic-logo-of-next-generation-command-center-.png)
+
+This is a very good event
